@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Repository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<DECLARE>
+<PhysicalTable name="CM_REC_APPROVER_1" parentName="&quot;APEX&quot;..&quot;EPSBI_APEX&quot;" parentId="3027:875855" parentUid="c0000000-f653-167a-b52f-0a17405a0000" id="3001:876368" uid="c0000000-4339-167b-bc80-0a17405a0000" type="none" maxConn="0">
+<DBMap>
+<Item name="DefaultMulDB">
+<Value><![CDATA[CM_REC_APPROVER_1]]></Value>
+</Item>
+</DBMap>
+<XSLT></XSLT>
+<XSDSchema></XSDSchema>
+</PhysicalTable>
+
+</DECLARE>
+</Repository>
